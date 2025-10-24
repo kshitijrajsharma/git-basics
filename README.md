@@ -41,4 +41,9 @@ git rebase feature to master :
 git checkout feature
 git rebase master 
 ``` 
+git merge : 
+
+```bash 
+git merge feature master
+```
 
