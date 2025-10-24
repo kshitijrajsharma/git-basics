@@ -1,5 +1,6 @@
 # git-basics
-git-basics
+
+lets try to practice some git-basics
 
 
 ## git-alais 
@@ -28,4 +29,9 @@ git rebase feature to master :
 git checkout feature
 git rebase master 
 ``` 
+git merge : 
+
+```bash 
+git merge feature master
+```
 
