@@ -20,3 +20,12 @@ add new remote :
 ```bash 
 git remote add exampleurl
 ```
+
+
+git rebase feature to master : 
+
+```bash 
+git checkout feature
+git rebase master 
+``` 
+
