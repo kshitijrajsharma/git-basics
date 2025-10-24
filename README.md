@@ -1,5 +1,6 @@
 # git-basics
-git-basics
+
+lets try to practice some git-basics
 
 
 ## git-alais 
@@ -20,3 +21,10 @@ add new remote :
 ```bash 
 git remote add exampleurl
 ```
+
+git merge : 
+
+```bash 
+git merge feature master
+```
+
