@@ -1,5 +1,6 @@
 # git-basics
-git-basics
+
+lets try to practice some git-basics
 
 
 ## git-alais 
