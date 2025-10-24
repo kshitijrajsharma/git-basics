@@ -23,7 +23,7 @@ git remote add exampleurl
 
 ## git merge
 
-merge master into feature 
+merge master into feature : 
 ```bash 
 git merge feature master
 ```
