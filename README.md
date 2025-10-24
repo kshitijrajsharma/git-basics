@@ -20,3 +20,10 @@ add new remote :
 ```bash 
 git remote add exampleurl
 ```
+
+## git merge
+
+merge master into feature 
+```bash 
+git merge feature master
+```
