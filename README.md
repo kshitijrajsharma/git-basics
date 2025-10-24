@@ -35,3 +35,10 @@ git merge :
 git merge feature master
 ```
 
+git rebase feature to master : 
+
+```bash 
+git checkout feature
+git rebase master 
+``` 
+
